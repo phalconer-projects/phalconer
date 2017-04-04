@@ -6,6 +6,10 @@
   Директория: phalconer-php
   Репозиторий: https://github.com/phalconer-projects/phalconer-php.git
 
+- phalconer-app-basic-php
+  Директория: phalconer-app-basic-php
+  Репозиторий: https://github.com/phalconer-projects/phalconer-app-basic-php.git
+
 - phalconer-common-php
   Директория: phalconer-common-php
   Репозиторий: https://github.com/phalconer-projects/phalconer-common-php.git
