@@ -1,3 +1,5 @@
 local/
-phalconer-php/ 
+phalconer-php/
+phalconer-common-php/
+phalconer-i18n-php/
 phalconer-user-php/
