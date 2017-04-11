@@ -1,5 +1,7 @@
+.idea/
 local/
 phalconer-php/
+phalconer-app-php/
 phalconer-app-basic-php/
 phalconer-common-php/
 phalconer-i18n-php/

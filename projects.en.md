@@ -6,6 +6,10 @@ Projects of Phalconer
   Directory: phalconer-php
   Repository: https://github.com/phalconer-projects/phalconer-php.git
 
+- phalconer-app-php
+  Directory: phalconer-app-php
+  Repository: https://github.com/phalconer-projects/phalconer-app-php.git
+
 - phalconer-app-basic-php
   Directory: phalconer-app-basic-php
   Repository: https://github.com/phalconer-projects/phalconer-app-basic-php.git
